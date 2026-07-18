@@ -29,6 +29,7 @@ A collection of Core Java programs, concepts, and coding exercises designed to s
 * Generics
 * Java 8 Features (Lambda Expressions & Streams)
 * Practice Programs
+* 
 * Coding Challenges
 
 ## Repository Structure
